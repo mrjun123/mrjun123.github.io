@@ -75,6 +75,7 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 - *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
 
 # 🤝 Projects
-- RL Industrial Control Project in Collaboration with SUPCON
-- RL Dexterous Hand Control in Collaboration with ZHAOWEI
+- Optimize data center temperature control using a probabilistic model, in collaboration with Ma'anshan Software Park;
+- RL Industrial Control Project in Collaboration with SUPCON;
+- RL Dexterous Hand Control in Collaboration with ZHAOWEI.
 
