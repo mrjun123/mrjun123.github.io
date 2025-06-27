@@ -23,7 +23,9 @@ Prior to this, I received Master of Electronic and Information Engineering in Co
 
 My research interests lie in the reinforcement learning and robot learning, especially in complex systems, like USV system, HVAC system, chemical production control etc.
 
-In addition, my personal interests and hobbies include developing various valuable and interesting web and app applications. Besides research, my personal skills include but are not limited to computer network maintenance, full-stack software and hardware development, patent writing, commercial product design, and business plan writing.
+In addition, my personal interests include developing various valuable and interesting web and app applications. Besides research, my personal skills include but are not limited to computer network maintenance, full-stack software and hardware development, patent writing, commercial product design, and business plan writing.
+
+Finally, for more about me, visit my [blog](https://mrjun.cn).
 
 # 💪 Skills
 
