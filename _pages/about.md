@@ -63,4 +63,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 - *2025.09 – 2029.06*, University of Chinese Academy of Sciences (UCAS), PhD of Pattern Recognition and Intelligent Systems.
 - *2022.09 – 2025.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering, Computer Technology.
 - *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
+- # 🤝 Projects
+- RL Industrial Control Project in Collaboration with SUPCON
+- RL Dexterous Hand Control in Collaboration with ZHAOWEI
 
