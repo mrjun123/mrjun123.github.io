@@ -29,7 +29,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 - **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by Adaptive Noise Filtering**
 
-  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
 
   **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>**
 
