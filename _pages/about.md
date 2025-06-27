@@ -68,6 +68,7 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 # 🎖 Honors and Awards
 - 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
 - 2025.1 Best Student of the Year (Top 1%) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- 2024.10 National Third Prize in CCF Technology Entrepreneurship Competition
 
 # 📖 Educations
 - *2025.09 – 2029.06*, University of Chinese Academy of Sciences (UCAS), PhD of Pattern Recognition and Intelligent Systems.
