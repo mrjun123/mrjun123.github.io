@@ -25,21 +25,41 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 # 📝 Publications 
 
+**Working Papers**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by Adaptive Noise Filtering**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
 
-<em>***11122***</em>
+  **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>**
+
+**Published / Accepted Papers**
 
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**
+
+  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+
+  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**
+
+  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+
+  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
+
+- **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**
+
+  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+
+  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**|[[Github]](https://github.com/mrjun123/DPETS)|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
+
+
 
 # 🎖 Honors and Awards
-- 2025.1 Best Student of the Year at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences(10/3000)
+- 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
+- 2025.1 Best Student of the Year (Top 1%) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
