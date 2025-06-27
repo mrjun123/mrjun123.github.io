@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "WenJun Huang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Focusing on Reinforcement Learning(specially MBRL) and Robot Learning. "
 repository               : "mrjun123/mrjun123.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "WenJun Huang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.png"
   bio              : "PhD student of University of Chinese Academy of Sciences"
   location         : "Shenzhen, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "mrjun123"
   google_plus      :
   keybase          :
   instagram        :
