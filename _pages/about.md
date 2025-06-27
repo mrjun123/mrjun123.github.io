@@ -23,6 +23,14 @@ Prior to this, I received Master of Electronic and Information Engineering in Co
 
 My research interests lie in the reinforcement learning and robot learning, especially in complex systems, like USV system, HVAC system, chemical production control etc.
 
+In addition, my personal interests and hobbies include developing various valuable and interesting web and app applications. Besides research, my personal skills include but are not limited to computer network maintenance, full-stack software and hardware development, patent writing, commercial product design, and business plan writing.
+
+# 💪 Skills
+
+- 💻 Programming skill: Node.js(JavaScript), Go, Vue/CSS, PHP, SQL(MySQL, PostgreSQL), Python(Django), Shell, Redis;
+- ✒️ Academic skill: Pytorch, Tensorflow, Paddlepaddle, Latex;
+- ⚙️ Software skills: SolidWorks, AutoCAD, Git.
+
 # 📝 Publications 
 
 **Working Papers**
@@ -63,7 +71,8 @@ My research interests lie in the reinforcement learning and robot learning, espe
 - *2025.09 – 2029.06*, University of Chinese Academy of Sciences (UCAS), PhD of Pattern Recognition and Intelligent Systems.
 - *2022.09 – 2025.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering, Computer Technology.
 - *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
-- # 🤝 Projects
+
+# 🤝 Projects
 - RL Industrial Control Project in Collaboration with SUPCON
 - RL Dexterous Hand Control in Collaboration with ZHAOWEI
 
