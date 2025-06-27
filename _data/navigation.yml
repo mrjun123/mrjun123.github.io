@@ -6,8 +6,8 @@ main:
   - title: "Skills"
     url: "/#-skills"
     
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Featured Papers"
+    url: "/#-featured-papers "
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
