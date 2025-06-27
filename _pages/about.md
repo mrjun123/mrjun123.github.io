@@ -37,11 +37,11 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 
 **Working Papers**
 
-- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by Adaptive Noise Filtering**
+- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [double-blind peer review]**
 
   **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)</font>**
+  **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Major Revision)</font>**
 
 **Published / Accepted Papers**
 
