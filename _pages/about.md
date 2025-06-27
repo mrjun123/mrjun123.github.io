@@ -55,13 +55,12 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
   **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**|[[Github]](https://github.com/mrjun123/DPETS)|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
-
-
 # 🎖 Honors and Awards
 - 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
 - 2025.1 Best Student of the Year (Top 1%) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09 – 2029.06*, University of Chinese Academy of Sciences (UCAS), PhD of Pattern Recognition and Intelligent Systems.
+- *2022.09 – 2025.06*, University of Chinese Academy of Sciences (UCAS), Master of Electronic and Information Engineering, Computer Technology.
+- *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
 
