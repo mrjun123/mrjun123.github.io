@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋Hello! I am currently a first-year PhD student in [Xi’an Jiaotong University](https://en.xjtu.edu.cn/), supervised by [Prof. Yunduan Cui](https://cuiyunduan.notion.site/Yunduan-Cui-1f47f8077204807c8abcf89bad523bae).
+👋Hello! I am currently a first-year PhD student in [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), supervised by [Prof. Yunduan Cui](https://cuiyunduan.notion.site/Yunduan-Cui-1f47f8077204807c8abcf89bad523bae).
 
 Prior to this, I received Master of Electronic and Information Engineering in Computer Technology from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2025.
 
