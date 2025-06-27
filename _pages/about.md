@@ -33,7 +33,7 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 - ✒️ Academic skill: Pytorch, Tensorflow, Paddlepaddle, Latex;
 - ⚙️ Software skills: SolidWorks, AutoCAD, Git.
 
-# 📝 Publications 
+# 📝 Featured Papers 
 
 **Working Papers**
 
