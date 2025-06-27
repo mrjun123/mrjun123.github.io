@@ -30,7 +30,7 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'>11122</span></strong>
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
