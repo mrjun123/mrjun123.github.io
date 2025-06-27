@@ -38,22 +38,22 @@ My research interests lie in the reinforcement learning and robot learning, espe
 
 - **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**
 
-  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
+  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
 
 
 - **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**
 
-  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
+  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
 
 - **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**
 
-  <u>**Wenjun Huang**</u>, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**|[[Github]](https://github.com/mrjun123/DPETS)|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
+  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**｜[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
 # 🎖 Honors and Awards
 - 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
