@@ -63,13 +63,13 @@ In addition to academic, My areas of expertise include but are not limited to **
 
   **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
+  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
 
 - **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**
 
   **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
 
-  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
+  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
 # 🎖 Honors and Awards
 - 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
