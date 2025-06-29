@@ -35,33 +35,41 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 
 # 📝 Featured Papers
 
+ ✉️ Corresponding author.
+
 **Working Papers**
 
 - **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [double-blind peer review]**
 
-  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ 
 
   **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Major Revision)</font>**
+  
+- **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning**
+
+  Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ 
+
+  **<font color="#224B8D">Submitted to *IEEE Robotics & Automation Magazine* (IEEE RAM, Under Review)</font>**
 
 **Published / Accepted Papers**
 
 
 - **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**
 
-  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
 
   **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
 
 
 - **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**
 
-  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
 
   **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
 
 - **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**
 
-  **<u>Wenjun Huang</u>**, Yunduan Cui, Huiyun Li and Xinyu Wu
+  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
 
   **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**｜[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
@@ -76,7 +84,7 @@ Finally, for more about me, visit my [blog](https://mrjun.cn).
 - *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
 
 # 🤝 Projects
-- Optimize data center temperature control using a probabilistic model, in collaboration with Ma'anshan Software Park;
-- RL Industrial Control Project in Collaboration with SUPCON;
-- RL Dexterous Hand Control in Collaboration with ZHAOWEI.
+- HVAC System Control in Collaboration with Ma'anshan Software Park (**Leader**);
+- Industrial Process Control in Collaboration with SUPCON (Member);
+- Dexterous Hand Control in Collaboration with ZHAOWEI (Member).
 
