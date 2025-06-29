@@ -47,7 +47,7 @@ In addition to academic, My areas of expertise include but are not limited to **
 
   Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ 
 
-  **<font color="#224B8D">Submitted to *IEEE Robotics & Automation Magazine* (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
+  **<font color="#224B8D">Submitted to IEEE Robotics & Automation Magazine (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
 
 **Published / Accepted Papers**
 
