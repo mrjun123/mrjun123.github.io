@@ -37,39 +37,19 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 **Working Papers**
 
-- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**
+- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Major Revision)</font>**
 
-  **<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ 
-
-  **<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Major Revision)</font>**
-  
-- **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning**
-
-  Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ 
-
-  **<font color="#224B8D">Submitted to IEEE Robotics & Automation Magazine (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
+- **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Robotics & Automation Magazine (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
 
 **Published / Accepted Papers**
 
 
-- **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**
-
-  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
-
-  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
+- **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
 
 
-- **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**
+- **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
 
-  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
-
-  **<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
-
-- **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**
-
-  **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu
-
-  **<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
+- **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
 # 🎖 Honors and Awards
 - 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
