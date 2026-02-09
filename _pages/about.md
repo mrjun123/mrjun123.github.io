@@ -37,7 +37,7 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 **Working Papers**
 
-- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Yunduan Cui and  Huize Zhang✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Industrial Informatics (IEEE TII)</font>
+- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Yunduan Cui and  Huize Zhang✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Industrial Informatics (IEEE TII)</font>**
 - **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Minor Revision)</font>**
 - **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Robotics & Automation Magazine (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
 
