@@ -37,7 +37,7 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 **Working Papers**
 
-- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Yunduan Cui and  Huize Zhang✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Industrial Informatics (IEEE TII)</font>**
+- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Yunduan Cui and  Huize Zhang✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Industrial Informatics (IEEE TII)</font>
 - **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, Minor Revision)</font>**
 - **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Robotics & Automation Magazine (IEEE RAM)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
 
@@ -52,11 +52,12 @@ In addition to academic, My areas of expertise include but are not limited to **
 - **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2024</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
 
 # 🎖 Honors and Awards
-- 2025.12 National Second Prize in China Innovation & Entrepreneurship Competition - Industrial Intelligence Professional Competition 
-- 2025.6 Outstanding Student Leader (Top 1%) at University of Chinese Academy of Sciences
-- 2025.1 Director's Innovation Award  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
-- 2025.1 Best Student of the Year (Top 1%) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
-- 2024.10 National Third Prize in CCF Technology Entrepreneurship Competition
+- 2026.1 **Director's Innovation Award**  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
+- 2025.12 **National Second Prize** in China Innovation & Entrepreneurship Competition - Industrial Agent Competition 
+- 2025.6 **Outstanding Student Leader** (Top 1%) at University of Chinese Academy of Sciences
+- 2025.1 **Director's Innovation Award**  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
+- 2025.1 **Best Student of the Year** (Top 1%) at Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
+- 2024.10 **National Third Prize** in CCF Technology Entrepreneurship Competition
 
 # 📖 Educations
 - *2025.09 – 2029.06*, University of Chinese Academy of Sciences (UCAS), PhD of Pattern Recognition and Intelligent Systems.
