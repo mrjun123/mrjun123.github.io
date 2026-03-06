@@ -43,7 +43,7 @@ In addition to academic, My areas of expertise include but are not limited to **
 **Published / Accepted Papers**
 
 
-- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1), 2026</font>**
+- **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by [Double-blind Peer Review]**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1), 2026</font>**
 - **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
 
 
