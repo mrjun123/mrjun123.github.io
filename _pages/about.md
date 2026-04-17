@@ -68,7 +68,6 @@ In addition to academic, My areas of expertise include but are not limited to **
 - *2018.09 – 2022.06*, Harbin University of Commerce (HUC), Bachelor of Industrial Engineering.
 
 # 🤝 Projects
-- HVAC System Control in Collaboration with Ma'anshan Software Park (**Leader**);
 - Industrial Process Control in Collaboration with SUPCON (Member);
 - Dexterous Hand Control in Collaboration with ZHAOWEI (Member).
 
@@ -76,6 +75,8 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 ### Reviewer
 
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Automation Science and Enginnering (T-ASE)
 - IEEE Robotics & Automation Magazine (RAM)
 - IEEE International Conference on Robotics & Automation (ICRA)
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
