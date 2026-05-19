@@ -40,6 +40,8 @@ In addition to academic, My areas of expertise include but are not limited to **
 - **Intelligent Process Control using Efficient Multi-Agent Reinforcement Learning**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to IEEE International Conference on Automation Science and Engineering (CASE)</font>**
 - **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to Engineering Applications of Artificial Intelligence (EAAI, JCR Q1)</font>**
 - **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to Biomimetic Intelligence and Robotics (BIROB, JCR Q1)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
+- **Disturbance-Robust Dexterous Hand Manipulation using Chunked Reinforcement Learning with Inertial Prediction**<br>Rongdun Lin; **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Xuefeng Yu<br>
+- **<font color="#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1)</font>**
 
 **Published / Accepted Papers**
 
