@@ -19,7 +19,7 @@ redirect_from:
 
 👋Hello! I am currently a first-year PhD student in [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/), supervised by [Prof. Yunduan Cui](https://cuiyunduan.notion.site/Yunduan-Cui-1f47f8077204807c8abcf89bad523bae).
 
-Prior to this, I received my Master of Science in Electronic and Information Engineering (Computer Technology) from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2025, with **CET6** English proficiency.
+Prior to this, I received my Master of Science in Electronic and Information Engineering (Computer Technology) from [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) in 2025, with CET6 English proficiency.
 
 My research interests lie in the reinforcement learning and robot learning, especially in complex systems, like USV system, HVAC system, chemical production control etc.
 
@@ -56,7 +56,9 @@ In addition to academic, My areas of expertise include but are not limited to **
 - **Disturbance-Robust Dexterous Hand Manipulation using Chunked Reinforcement Learning with Inertial Prediction**<br>Rongdun Lin; **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Xuefeng Yu<br>**<font color="#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1)</font>**
 
 # 🎖 Honors and Awards
-- 2026.1 **Director's Innovation Award**  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
+- 2026.7 **National First Prize** at the Beijing College Students' Innovation and Entrepreneurship Competition
+- 2026.4 **Outstanding Student** at University of Chinese Academy of Sciences
+- 2026.1 **Director's Innovation Award** at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
 - 2025.12 **National Second Prize** in China Innovation & Entrepreneurship Competition - Industrial Agent Competition 
 - 2025.6 **Outstanding Student Leader** (Top 1%) at University of Chinese Academy of Sciences
 - 2025.1 **Director's Innovation Award**  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
