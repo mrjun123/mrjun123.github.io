@@ -37,7 +37,7 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 **Working Papers**
 
-- **Probabilistic Model-Guided Actor-Critic Framework for Efficient Model-Based Reinforcement Learning**<br>**<u>Wenjun Huang</u>**Yunduan Cui, and Xuefeng Yu✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1)</font>**
+- **Probabilistic Model-Guided Actor-Critic Framework for Efficient Model-Based Reinforcement Learning**<br>**<u>Wenjun Huang</u>**, Yunduan Cui✉️ , and Xuefeng Yu<br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1)</font>**
 - **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to Engineering Applications of Artificial Intelligence (EAAI, JCR Q1, Major Revision)</font>**
 
 **Published / Accepted Papers**
