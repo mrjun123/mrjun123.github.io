@@ -37,23 +37,23 @@ In addition to academic, My areas of expertise include but are not limited to **
 
 **Working Papers**
 
-- **Intelligent Process Control using Efficient Multi-Agent Reinforcement Learning**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to IEEE International Conference on Automation Science and Engineering (CASE)</font>**
-- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to Engineering Applications of Artificial Intelligence (EAAI, JCR Q1)</font>**
-- **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Submitted to Biomimetic Intelligence and Robotics (BIROB, JCR Q1)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
-- **Disturbance-Robust Dexterous Hand Manipulation using Chunked Reinforcement Learning with Inertial Prediction**<br>Rongdun Lin; **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Xuefeng Yu<br>**<font color="#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1)</font>**
+- **Probabilistic Model-Guided Actor-Critic Framework for Efficient Model-Based Reinforcement Learning**<br>**<u>Wenjun Huang</u>**Yunduan Cui, and Xuefeng Yu✉️ <br>**<font color="#224B8D">Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1)</font>**
+- **Probabilistic Model based Reliable Policy Optimization for Industrial Process Control**<br>**<u>Wenjun Huang</u>**, Zeyu Xie, Huize Zhang, Jianna Zhu, Yuan Guo, Yichi Jin, Qiqi Lan, and Yunduan Cui✉️ <br>**<font color="#224B8D">Submitted to Engineering Applications of Artificial Intelligence (EAAI, JCR Q1, Major Revision)</font>**
 
 **Published / Accepted Papers**
 
-
 - **Enhancing Stability of Probabilistic Model-based Reinforcement Learning by Adaptive Noise Filtering**<br>**<u>Wenjun Huang</u>**, Xinrui Yue, Yidong Chen, Tianfu Sun and Yunduan Cui ✉️ <br>**<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1), 2026</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/11436126)
 
-
 - **Practical Reinforcement Learning using Time-efficient Model-based Policy Optimization**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10967354)
-
 
 - **Effective Probabilistic Neural Networks Model for Model-based Reinforcement Learning USV**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1), 2025</font>**\|[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10876161)
 
 - **Practical Probabilistic Model-based Reinforcement Learning by Integrating Dropout Uncertainty and Trajectory Sampling**<br>**<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Huiyun Li and Xinyu Wu<br>**<font color="#224B8D">IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS, JCR Q1), 2024</font>**\|[[Github]](https://github.com/mrjun123/DPETS)｜[[IEEE Xplore]](https://ieeexplore.ieee.org/document/10721239)
+
+**Co-authored Papers**
+
+- **Multi-Goal Dexterous Hand Manipulation using Probabilistic Model-based Reinforcement Learning** <br>Yingzhuo Jiang, **<u>Wenjun Huang</u>**, Rongdun Lin, Chenyang Miao, Tianfu Sun, Yunduan Cui ✉️ <br>**<font color="#224B8D">Biomimetic Intelligence and Robotics (BIROB, JCR Q1)</font>** \|[[arXiv]](https://arxiv.org/abs/2504.21585)
+- **Disturbance-Robust Dexterous Hand Manipulation using Chunked Reinforcement Learning with Inertial Prediction**<br>Rongdun Lin; **<u>Wenjun Huang</u>**, Yunduan Cui ✉️ , Xuefeng Yu<br>**<font color="#224B8D">Submitted to IEEE Transactions on Automation Science and Engineering (IEEE T-ASE, JCR Q1)</font>**
 
 # 🎖 Honors and Awards
 - 2026.1 **Director's Innovation Award**  (Top 1%) at the Shenzhen Institute of Advanced Integration Technology, Chinese Academy of Sciences and The Chinese University of Hong Kong
